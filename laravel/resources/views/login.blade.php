@@ -14,7 +14,7 @@
 
     <div class="grid">
   
-      <form action="./welcome" method="POST" class="form login">
+      <form method="POST" class="form login">
   
         <div class="form__field">
           <label for="login__username" style="margin-bottom: 0 !important;"><svg class="icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#user"></use></svg><span class="hidden">Usuario</span></label>
@@ -27,7 +27,7 @@
         </div>
   
         <div class="form__field">
-          <input type="submit" value="Iniciar Sesion">
+          <input type="button" value="Iniciar Sesion" onclick="window.location = './welcome'">
         </div>
   
       </form>
