@@ -27,7 +27,7 @@
         </div>
   
         <div class="form__field">
-          <a type="button" value="Iniciar Sesion" href="http://ideasmarketing.mx/hermes/welcome">
+          <input type="button" value="Iniciar Sesion" onclick="window.location = 'http://ideasmarketing.mx/hermes/welcome'">
         </div>
   
       </div>
