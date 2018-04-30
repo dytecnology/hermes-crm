@@ -27,7 +27,7 @@
         </div>
   
         <div class="form__field">
-          <a type="button" value="Iniciar Sesion" href="/welcome">
+          <a type="button" value="Iniciar Sesion" href="http://ideasmarketing.mx/hermes/welcome">
         </div>
   
       </div>
