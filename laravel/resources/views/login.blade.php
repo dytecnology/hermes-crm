@@ -27,7 +27,7 @@
         </div>
   
         <div class="form__field">
-          <input type="button" value="Iniciar Sesion" onclick="window.location = '/welcome'">
+          <a type="button" value="Iniciar Sesion" href="/welcome">
         </div>
   
       </div>
